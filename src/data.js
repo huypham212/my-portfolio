@@ -1,5 +1,5 @@
 import porfolio from './assets/images/portfolio.jpg';
-export const password = 'MyF!rstT1m3Us3P@ssw0rd';
+export const LastPass_password = 'MyF!rstT1m3Us3P@ssw0rd';
 export const projects = [
     {
         title: "React Portfolio",

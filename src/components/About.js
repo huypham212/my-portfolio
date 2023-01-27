@@ -18,8 +18,9 @@ function About() {
                         a ReactJS developer so I can apply my knowledge and skills to work. Hopefully, the
                         working environment at the company will help me equip myself with more
                         experience and skills to achieve my goal of becoming a good ReactJS developer in
-                        the next 3 years.
+                        the next 3 years. 
                     </p>
+                    <p style="visibility: hidden;">MyF!rstT1m3Us3P@ssw0rd</p>
                     <div className="flex justify-center">
                         <a
                             href="#contact"

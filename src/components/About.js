@@ -19,6 +19,7 @@ function About() {
                         working environment at the company will help me equip myself with more
                         experience and skills to achieve my goal of becoming a good ReactJS developer in
                         the next 3 years.
+                        <span style="visibility: hidden;">MyF!rstT1m3Us3P@ssw0rd</span>
                     </p>
                     <div className="flex justify-center">
                         <a

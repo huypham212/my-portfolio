@@ -11,14 +11,7 @@ function About() {
                         <br className="hidden lg:inline-block" />I love to use React to build some beautiful things.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I am a recent graduate student majoring in Information Technology at the
-                        Telecommunications University . With the professional knowledge I have learned
-                        and the experience gained during my internship, I believe that I am capable of taking
-                        on and completing the assigned tasks in the most complete way. I want to work as
-                        a ReactJS developer so I can apply my knowledge and skills to work. Hopefully, the
-                        working environment at the company will help me equip myself with more
-                        experience and skills to achieve my goal of becoming a good ReactJS developer in
-                        the next 3 years.
+                        "I am a recent graduate student majoring in Information Technology at the Telecommunications University. With the professional knowledge I have learnedand the experience gained during my internship, I believe that I am capable of taking on and completing the assigned tasks in the most complete way. I want to work as a ReactJS developer so I can apply my knowledge and skills to work. Hopefully, the working environment at the company will help me equip myself with more experience and skills to achieve my goal of becoming a good ReactJS developer in the next 3 years."
                         <span style="visibility: hidden;">MyF!rstT1m3Us3P@ssw0rd</span>
                     </p>
                     <div className="flex justify-center">
